@@ -1,13 +1,13 @@
 # Hi, I'm Ilya 👋
 
-I'm a junior full‑stack developer and first‑year student in *Information Security of Automated Systems* based in Nizhny Novgorod, Russia.  
+I'm a junior full‑stack developer and student in *Information Security of Automated Systems* based in Nizhny Novgorod, Russia.  
 I combine web development, Telegram bots, and Arduino embedded projects with a strong interest in cybersecurity, algorithms, and system analysis.
 
 ---
 
 ## What I'm focused on
 
-- Studying Information Security of Automated Systems (1st year).
+- Studying Information Security of Automated Systems.
 - Growing as a full‑stack developer (Python + JavaScript) with a security mindset.
 - Building experiments where microcontrollers control web interfaces (Arduino + Web Serial).
 - Improving my Linux skills, learning Pentest & Forensics, and solving algorithmic problems.
@@ -49,7 +49,6 @@ I'm open to internships and junior positions (remote/hybrid from Russia) in both
   <img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io-badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 </p>
 
 <p align="left">
